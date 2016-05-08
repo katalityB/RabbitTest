@@ -1,0 +1,14 @@
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0

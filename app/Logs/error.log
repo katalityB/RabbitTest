@@ -460,3 +460,57 @@ Exception information:
 
            ---------
 
+Exception information:
+
+           Date: May 08, 2016 10:50AM
+
+           Message: Call to undefined function Helpers\curl_init()
+
+           Code: 0
+
+           File: C:\server\data\htdocs\system\Helpers\TwitterProxy.php
+
+           Line: 98
+
+           Stack trace:
+
+           #0 C:\server\data\htdocs\system\Helpers\TwitterSearch.php(37): Helpers\TwitterProxy->get('search/tweets.j...')
+#1 C:\server\data\htdocs\app\Controllers\Welcome.php(47): Helpers\TwitterSearch->search()
+#2 [internal function]: App\Controllers\Welcome->getTweets()
+#3 C:\server\data\htdocs\system\Core\Controller.php(74): call_user_func_array(Array, Array)
+#4 C:\server\data\htdocs\system\Core\Router.php(356): Core\Controller->execute('getTweets', Array)
+#5 C:\server\data\htdocs\system\Core\Router.php(389): Core\Router->invokeController('App\\Controllers...', 'getTweets', Array)
+#6 C:\server\data\htdocs\system\Core\Router.php(434): Core\Router->invokeObject('App\\Controllers...', Array)
+#7 C:\server\data\htdocs\system\bootstrap.php(50): Core\Router->dispatch()
+#8 C:\server\data\htdocs\public\index.php(68): require('C:\\server\\data\\...')
+#9 {main}
+
+           ---------
+
+Exception information:
+
+           Date: May 08, 2016 10:50AM
+
+           Message: Call to undefined function Helpers\curl_init()
+
+           Code: 0
+
+           File: C:\server\data\htdocs\system\Helpers\TwitterProxy.php
+
+           Line: 98
+
+           Stack trace:
+
+           #0 C:\server\data\htdocs\system\Helpers\TwitterSearch.php(37): Helpers\TwitterProxy->get('search/tweets.j...')
+#1 C:\server\data\htdocs\app\Controllers\Welcome.php(47): Helpers\TwitterSearch->search()
+#2 [internal function]: App\Controllers\Welcome->getTweets()
+#3 C:\server\data\htdocs\system\Core\Controller.php(74): call_user_func_array(Array, Array)
+#4 C:\server\data\htdocs\system\Core\Router.php(356): Core\Controller->execute('getTweets', Array)
+#5 C:\server\data\htdocs\system\Core\Router.php(389): Core\Router->invokeController('App\\Controllers...', 'getTweets', Array)
+#6 C:\server\data\htdocs\system\Core\Router.php(434): Core\Router->invokeObject('App\\Controllers...', Array)
+#7 C:\server\data\htdocs\system\bootstrap.php(50): Core\Router->dispatch()
+#8 C:\server\data\htdocs\public\index.php(68): require('C:\\server\\data\\...')
+#9 {main}
+
+           ---------
+

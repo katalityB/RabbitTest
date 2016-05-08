@@ -26,7 +26,11 @@ class TwitterSearch
     public function __construct($city) {
         $this->config['city'] = $city;
         $coordinate = GeoCode::getLngLat(['', $city]);
-        $this->config['twitter_url'] .= '?q='.$city.'&geocode='.$coordinate['lat'].','.$coordinate['lon'].','.$this->config['radius'].'&count='.$this->config['count'];
+        if(is_array($coordinate)){
+            $this->config['twitter_url'] .= '?q='.$city.'&geocode='.$coordinate['lat'].','.$coordinate['lon'].','.$this->config['radius'].'&count='.$this->config['count'];
+        }else{
+            throw new Exception("Can't find coordinates for ". $city);
+        }
     }
     
     public function search(){

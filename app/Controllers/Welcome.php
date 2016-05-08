@@ -43,7 +43,11 @@ class Welcome extends Controller
 
     public function getTweets()
     {
-        $search = new TwitterSearch($_GET['city']);
-        echo json_encode($search->search());
+        try {
+            $search = new TwitterSearch($_GET['city']);
+            echo json_encode($search->search());
+        } catch (Exception $e) {
+            echo $e;
+        }
     }
 }

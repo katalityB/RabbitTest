@@ -56,8 +56,6 @@ function search(city){
         type: 'GET',
         data: {city: city},
         success: function(g) {
-            console.log(g);
-            g = JSON.parse(g);
             initialize(g);
         },
     });

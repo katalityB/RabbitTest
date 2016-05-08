@@ -19,7 +19,7 @@
     echo $css;
     echo $js;
     ?>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyDzkIOfXsgkZKDaLvXptLwdhHvwxB7jdXM"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDzkIOfXsgkZKDaLvXptLwdhHvwxB7jdXM"></script>
     <script type="text/javascript">
         $( document ).ready(function() {
             initialize();

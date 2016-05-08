@@ -1,7 +1,6 @@
 .idea
 # Framework specific
 vendor/
-app/Config.php
 
 # The developers Playground
 works

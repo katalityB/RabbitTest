@@ -350,3 +350,17 @@ Stack trace:
 [08-May-2016 08:03:28 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
 [08-May-2016 08:03:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 153
 [08-May-2016 08:03:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 154
+[08-May-2016 09:11:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 09:11:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 09:11:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 09:11:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 09:11:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 09:11:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 09:11:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0

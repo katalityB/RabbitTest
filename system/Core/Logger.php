@@ -34,7 +34,7 @@ class Logger
     *
     * @var boolean
     */
-    private static $display = false;
+    private static $display = true;
 
     /**
     * Path to error file.

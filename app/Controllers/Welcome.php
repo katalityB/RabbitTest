@@ -11,6 +11,7 @@ namespace App\Controllers;
 use Core\View;
 use Core\Controller;
 use Helpers\Session;
+use Helpers\TwitterSearch;
 
 /**
  * Sample controller showing a construct and 2 methods and their typical usage.
@@ -39,25 +40,10 @@ class Welcome extends Controller
         View::renderTemplate('footer', $data);
     }
 
-    /**
-     * Define Subpage page title and load template files
-     */
-    public function subPage()
+
+    public function getTweets()
     {
-        // The Default Rendering Style.
-        /*
-        $data['title'] = $this->language->get('subpageText');
-        $data['welcomeMessage'] = $this->language->get('subpageMessage');
-
-
-        View::renderTemplate('header', $data);
-        View::render('Welcome/SubPage', $data);
-        View::renderTemplate('footer', $data);
-        */
-
-        // The New Rendering Style.
-        return View::make('Welcome/SubPage')
-            ->shares('title', $this->trans('subpageText'))
-            ->withWelcomeMessage($this->trans('subpageMessage'));
+        $search = new TwitterSearch($_GET['city']);
+        echo $search->search();
     }
 }

@@ -12,3 +12,341 @@
  in Unknown on line 0
 [08-May-2016 04:38:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
  in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:14:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:39:46 UTC] PHP Notice:  Undefined index: city in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 41
+[08-May-2016 07:39:46 UTC] PHP Notice:  Use of undefined constant APPDIR - assumed 'APPDIR' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 27
+[08-May-2016 07:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Helpers\GeoCode' not found in C:\server\data\htdocs\system\Helpers\TwitterSearch.php:27
+Stack trace:
+#0 C:\server\data\htdocs\system\Helpers\TwitterSearch.php(41): Helpers\TwitterSearch->__construct(NULL)
+#1 {main}
+  thrown in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 27
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:24 UTC] PHP Notice:  Undefined index: city in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 189
+[08-May-2016 07:41:24 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:41:24 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:41:25 UTC] PHP Warning:  Illegal string offset 'lon' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 176
+[08-May-2016 07:41:25 UTC] PHP Warning:  Illegal string offset 'lat' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 176
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:41:51 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:41:51 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:45:53 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:45:53 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:47:28 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:47:28 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:47:29 UTC] PHP Warning:  Illegal string offset 'lon' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 176
+[08-May-2016 07:47:29 UTC] PHP Warning:  Illegal string offset 'lat' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 176
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:48:47 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:48:47 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:50:38 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:50:38 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:50:38 UTC] PHP Warning:  Illegal string offset 'lon' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 176
+[08-May-2016 07:50:38 UTC] PHP Warning:  Illegal string offset 'lat' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 176
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:07 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:51:07 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:51:10 UTC] PHP Warning:  Illegal string offset 'lon' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 177
+[08-May-2016 07:51:10 UTC] PHP Warning:  Illegal string offset 'lat' in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 177
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:26 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:51:26 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:51:47 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:51:47 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:14 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:52:14 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:52:52 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:52:52 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:53:31 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:53:31 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:54:22 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:54:22 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:56:21 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:56:21 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:56:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 153
+[08-May-2016 07:56:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 154
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 07:57:56 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 07:57:56 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 07:57:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 153
+[08-May-2016 07:57:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 154
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:00:29 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 08:00:29 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 08:00:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 153
+[08-May-2016 08:00:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 154
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_interbase.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_mysql.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_oci8_12c.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_firebird.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pdo_oci.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_pspell.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\Server\bin\PHP\ext\php_sybase_ct.dll' - The specified module could not be found.
+ in Unknown on line 0
+[08-May-2016 08:03:28 UTC] PHP Notice:  Undefined offset: 2 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 32
+[08-May-2016 08:03:28 UTC] PHP Notice:  Undefined offset: 3 in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 33
+[08-May-2016 08:03:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 153
+[08-May-2016 08:03:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\server\data\htdocs\system\Helpers\TwitterSearch.php:32) in C:\server\data\htdocs\system\Helpers\TwitterSearch.php on line 154

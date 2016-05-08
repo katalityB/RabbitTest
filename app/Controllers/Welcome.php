@@ -44,6 +44,7 @@ class Welcome extends Controller
     public function getTweets()
     {
         $search = new TwitterSearch($_GET['city']);
+        var_dump( $search->search());
         echo $search->search();
     }
 }

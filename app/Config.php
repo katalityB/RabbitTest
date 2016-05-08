@@ -13,7 +13,7 @@ use Core\Config;
 /**
  * Define the complete site URL.
  */
-define('SITEURL', 'http://evening-caverns-99492.herokuapp.com/');
+define('SITEURL', 'https://evening-caverns-99492.herokuapp.com/');
 
 /**
  * Define relative base path.

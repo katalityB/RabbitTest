@@ -24,7 +24,7 @@ class GeoCode
      */
     public static function getLngLat(array $options)
     {
-        $url_base = 'http://maps.googleapis.com/maps/api/geocode/json?address=';
+        $url_base = 'https://maps.googleapis.com/maps/api/geocode/json?address=';
         $url_end = "&sensor=false";
 
         $address = array (

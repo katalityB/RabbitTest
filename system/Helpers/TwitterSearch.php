@@ -36,10 +36,11 @@ class TwitterSearch
         //// Invoke the get method to retrieve results via a cURL request
         $tweets = $twitter_proxy->get($this->config['twitter_url']);
         $result = $this->prepare($tweets);
-        return $tweets;
+        return $result;
     }
 
     private function prepare($tweets){
+        $tweets = json_decode($tweets, true);
         $result = [];
         foreach($tweets['statuses'] as $tweet){
             if ($tweet['geo']['coordinates']){
